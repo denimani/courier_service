@@ -1,0 +1,11 @@
+[run]
+omit =
+    */orders/migrations/*
+    */orders/models.py
+    */orders/serializers.py
+    */orders/apps.py
+    */orders/tests.py
+    */orders/urls.py
+    */orders/admin.py
+    */orders/__init__.py
+    */orders/management/commands/import_excel.py
